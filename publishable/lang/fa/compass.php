@@ -20,7 +20,7 @@ return [
     ],
     'resources'     => [
         'title'                 => 'منابع',
-        'text'                  => 'منابع Voyager برای کمک به شما جهت یافتن سریع تر آنچه به دنبالش هستید',
+        'text'                  => 'منابع SHJARAH برای کمک به شما جهت یافتن سریع تر آنچه به دنبالش هستید',
 
     ],
     'logs'          => [
@@ -40,7 +40,7 @@ return [
     ],
     'fonts'         => [
         'title'                 => 'فونت ها',
-        'font_class'            => 'نقشه کلاس های فونت Voyager',
-        'font_character'        => 'نقشه کاراکترهای فونت Voyager',
+        'font_class'            => 'نقشه کلاس های فونت SHJARAH',
+        'font_character'        => 'نقشه کاراکترهای فونت SHJARAH',
     ],
 ];

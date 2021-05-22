@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'welcome'           => 'Välkommen till Voyager Compass. Alla bra appar behöver in kompass som visar riktningen.
+    'welcome'           => 'Välkommen till SHJARAH Compass. Alla bra appar behöver in kompass som visar riktningen.
     I denna avdelning hittar du resurser som hjälper dig att bygga din applikation',
     'links' => [
         'title'                 => 'Länkar',
         'documentation'         => 'Dokumentation',
-        'voyager_homepage'      => 'Voyager Hemsida',
-        'voyager_hooks'         => 'Voyager Hooks',
+        'voyager_homepage'      => 'SHJARAH Hemsida',
+        'voyager_hooks'         => 'SHJARAH Hooks',
     ],
     'commands' => [
         'title'                 => 'Kommandon',
-        'text'                  => 'Kör Artisan Kommandon från Voyager.',
+        'text'                  => 'Kör Artisan Kommandon från SHJARAH.',
         'clear_output'          => 'rensa utdata',
         'command_output'        => 'Artisan Kommando Utdata',
         'additional_args'       => 'Lägg till argument?',
@@ -19,7 +19,7 @@ return [
     ],
     'resources' => [
         'title'                 => 'Resurser',
-        'text'                  => 'Voyager resurser som hjälper dig hitta snabbare.',
+        'text'                  => 'SHJARAH resurser som hjälper dig hitta snabbare.',
     ],
     'logs' => [
         'title'                 => 'Loggar',
@@ -37,7 +37,7 @@ return [
     ],
     'fonts' => [
         'title'                 => 'Typsnitt',
-        'font_class'            => 'Voyager Typsnitt Klasser',
-        'font_character'        => 'Voyager Typsnitt Tecken',
+        'font_class'            => 'SHJARAH Typsnitt Klasser',
+        'font_character'        => 'SHJARAH Typsnitt Tecken',
     ],
 ];

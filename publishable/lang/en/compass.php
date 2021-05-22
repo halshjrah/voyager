@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'welcome'                => 'Welcome to the Voyager Compass. Every good app needs a compass to point them in the right direction.
+    'welcome'                => 'Welcome to the SHJARAH Compass. Every good app needs a compass to point them in the right direction.
     In this section you will find many resources and administrative tasks to help guide you as you build out your application.',
     'links'         => [
         'title'                 => 'Links',
         'documentation'         => 'Documentation',
-        'voyager_homepage'      => 'Voyager Homepage',
-        'voyager_hooks'         => 'Voyager Hooks',
+        'voyager_homepage'      => 'SHJARAH Homepage',
+        'voyager_hooks'         => 'SHJARAH Hooks',
     ],
     'commands'      => [
         'title'                 => 'Commands',
-        'text'                  => 'Run Artisan Commands from Voyager.',
+        'text'                  => 'Run Artisan Commands from SHJARAH.',
         'clear_output'          => 'clear output',
         'command_output'        => 'Artisan Command Output',
         'additional_args'       => 'Additional Args?',
@@ -19,7 +19,7 @@ return [
     ],
     'resources'     => [
         'title'                 => 'Resources',
-        'text'                  => 'Voyager resources to help you find things quicker.',
+        'text'                  => 'SHJARAH resources to help you find things quicker.',
 
     ],
     'logs'          => [
@@ -39,7 +39,7 @@ return [
     ],
     'fonts'         => [
         'title'                 => 'Fonts',
-        'font_class'            => 'Voyager Fonts Class Mapping',
-        'font_character'        => 'Voyager Fonts Character Mapping',
+        'font_class'            => 'SHJARAH Fonts Class Mapping',
+        'font_character'        => 'SHJARAH Fonts Character Mapping',
     ],
 ];

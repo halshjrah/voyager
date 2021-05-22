@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'welcome'                => 'Добро пожаловать в Voyager Compass. Каждое хорошее приложение нуждается в компасе, чтобы указать им в правильном направлении.
+    'welcome'                => 'Добро пожаловать в SHJARAH Compass. Каждое хорошее приложение нуждается в компасе, чтобы указать им в правильном направлении.
      В этом разделе вы найдете много ресурсов и административных задач, которые помогут вам в создании вашего приложения.',
     'links'         => [
         'title'                 => 'Ссылки',
         'documentation'         => 'Документация',
-        'voyager_homepage'      => 'Страница Voyager',
-        'voyager_hooks'         => 'Хуки Voyager',
+        'voyager_homepage'      => 'Страница SHJARAH',
+        'voyager_hooks'         => 'Хуки SHJARAH',
     ],
     'commands'      => [
         'title'                 => 'Команды',
-        'text'                  => 'Запустите команду Artisan от Voyager.',
+        'text'                  => 'Запустите команду Artisan от SHJARAH.',
         'clear_output'          => 'clear output',
         'command_output'        => 'Выход команды Artisan',
         'additional_args'       => 'Дополнительные аргументы?',
@@ -19,7 +19,7 @@ return [
     ],
     'resources'     => [
         'title'                 => 'Ресурсы',
-        'text'                  => 'Ресурсы Voyager, которые помогут вам найти вещи быстрее.',
+        'text'                  => 'Ресурсы SHJARAH, которые помогут вам найти вещи быстрее.',
 
     ],
     'logs'          => [
@@ -39,7 +39,7 @@ return [
     ],
     'fonts'         => [
         'title'                 => 'Шрифты',
-        'font_class'            => 'Карта классов шрифта Voyager',
-        'font_character'        => 'Карта символов шрифта Voyager',
+        'font_class'            => 'Карта классов шрифта SHJARAH',
+        'font_character'        => 'Карта символов шрифта SHJARAH',
     ],
 ];

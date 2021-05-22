@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'welcome'                => 'Voyager Pusula\'ya hoşgeldiniz. Her iyi uygulama doğru istikamette ilerlemek için bir pusulaya ihtiyaç duyar.
+    'welcome'                => 'SHJARAH Pusula\'ya hoşgeldiniz. Her iyi uygulama doğru istikamette ilerlemek için bir pusulaya ihtiyaç duyar.
     Bu bölümde uygulamanızı geliştirirken size rehberlik edecek bir çok kaynak ve yönetimsel görev bulacaksınız.',
     'links'         => [
         'title'                 => 'Bağlantılar',
         'documentation'         => 'Dokümantasyon',
-        'voyager_homepage'      => 'Voyager Anasayfa',
-        'voyager_hooks'         => 'Voyager Hookları',
+        'voyager_homepage'      => 'SHJARAH Anasayfa',
+        'voyager_hooks'         => 'SHJARAH Hookları',
     ],
     'commands'      => [
         'title'                 => 'Komutlar',
-        'text'                  => 'Artisan Komutlarını Voyager\'dan Çalıştır.',
+        'text'                  => 'Artisan Komutlarını SHJARAH\'dan Çalıştır.',
         'clear_output'          => 'çıktıyı temizle',
         'command_output'        => 'Artisan Komut Çıktısı',
         'additional_args'       => 'İlave Argümanlar?',
@@ -19,7 +19,7 @@ return [
     ],
     'resources'     => [
         'title'                 => 'Kaynaklar',
-        'text'                  => 'Aradığınız şeyleri bulmanızı kolaylaştıracak Voyager kaynakları.',
+        'text'                  => 'Aradığınız şeyleri bulmanızı kolaylaştıracak SHJARAH kaynakları.',
 
     ],
     'logs'          => [
@@ -39,7 +39,7 @@ return [
     ],
     'fonts'         => [
         'title'                 => 'İkonlar',
-        'font_class'            => 'Voyager İkon Class Eşleştirmesi',
-        'font_character'        => 'Voyager İkon Karakter Eşleştirmesi',
+        'font_class'            => 'SHJARAH İkon Class Eşleştirmesi',
+        'font_character'        => 'SHJARAH İkon Karakter Eşleştirmesi',
     ],
 ];
